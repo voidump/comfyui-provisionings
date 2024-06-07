@@ -26,7 +26,7 @@ NODES=(
     "https://github.com/pythongosssss/ComfyUI-Custom-Scripts"
     "https://github.com/rgthree/rgthree-comfy"
     "https://github.com/shiimizu/ComfyUI_smZNodes"
-    # "https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes"
+    "https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes"
     "https://github.com/cubiq/ComfyUI_InstantID"
     "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
     "https://github.com/Fannovel16/comfyui_controlnet_aux"
